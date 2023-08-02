@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.teacher">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Teacher"
+        tools:targetApi="31">
+        <activity
+            android:name=".olympiad"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".vpr_prepare"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".vpr"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".about"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".select_topic"
+            android:exported="false"
+            android:theme="@style/Background">
+            <intent-filter>
+                <action android:name="teacher.android.intent.action.class1" />
+                <action android:name="teacher.android.intent.action.class2" />
+                <action android:name="teacher.android.intent.action.class3" />
+                <action android:name="teacher.android.intent.action.class4" />
+                <action android:name="teacher.android.intent.action.vpr" />
+                <action android:name="teacher.android.intent.action.vpr_prepare" />
+                <action android:name="teacher.android.intent.action.olympiad_select_variant" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".test_theory"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".select_class"
+            android:exported="false"
+            android:theme="@style/Background">
+            <intent-filter>
+                <action android:name="teacher.android.intent.action.select_class"/>
+                <action android:name="teacher.android.intent.action.olympiad_select_class" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".selected_topic"
+            android:exported="false"
+            android:theme="@style/Background"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Background">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

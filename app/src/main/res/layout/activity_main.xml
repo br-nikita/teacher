@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/custom_text"
+            android:justificationMode="inter_word"
+            android:paddingStart="15dp"
+            android:paddingTop="10dp"
+            android:paddingEnd="15dp"
+            android:paddingBottom="10dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt1"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp"
+            android:text="Изучение теории"
+            android:textSize="14sp"
+            app:layout_constraintStart_toStartOf="@+id/tv1"
+            app:layout_constraintTop_toBottomOf="@+id/tv1" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt2"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:justificationMode="inter_word"
+            android:padding="0dp"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp"
+            android:text="Решение олимпиадных заданий"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv1"
+            app:layout_constraintTop_toBottomOf="@+id/tv1" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt3"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:paddingStart="5dp"
+            android:paddingEnd="5dp"
+            android:text="Подготовка к ВПР"
+            android:textSize="14sp"
+            app:layout_constraintStart_toStartOf="@+id/bt1"
+            app:layout_constraintTop_toBottomOf="@+id/bt1" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt4"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:justificationMode="inter_word"
+            android:paddingStart="15dp"
+            android:paddingEnd="15dp"
+            android:text="Решение билетов ВПР"
+            android:gravity="center"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@+id/bt2"
+            app:layout_constraintTop_toBottomOf="@+id/bt2" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

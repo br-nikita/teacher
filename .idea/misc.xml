@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.197" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/button_green.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/button_test_done.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/button_yellow.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/custom_text.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/custon_button.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/ic_background.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/drawable/side_nav_bar.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/about.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_class1.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_faq.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_olympiad.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_registration.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_select_class.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_selected_topic.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_test_class1.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/activity_test_class1_topic1.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/content_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/faq.xml" value="0.13880445795339413" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/olympiad.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/select_class.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/select_topic.xml" value="0.22" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/selected_topic.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/test_class1.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/test_theory.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/vpr.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/layout/vpr_prepare.xml" value="0.25" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/menu/activity_main_drawer.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/menu/main_activity2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/menu/main_menu.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1355" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/teacher/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1355" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
